@@ -1,0 +1,38 @@
+[
+  {
+    "usuarios": {
+      "id-usuarios": 2,
+      "username": "ivan567",
+      "contraseña": "12345"
+    },
+    "usuarios-registrados": {
+      "iduseregister": 4,
+      "nombre": "ivan",
+      "edad": "21",
+      "ciudad": "monteria",
+      "email": "ht45@hotmail.com",
+      "grado": "4"
+    },
+    "actividad": {
+      "id-actividad": 8,
+      "nombre-actividad": "irregular verbs"
+    },
+    "niveles-actividad": {
+      "idn-actividad": "5",
+      "nivel1": "basico",
+      "nivel2": "intermedio",
+      "nivel3": "avanzado"
+    },
+    "notas": {
+      "id-notas": 9,
+      "nota1": "nivel1",
+      "nota2": "nivel2",
+      "notas3": "nivel3"
+    },
+    "guias": {
+      "id-guias": 6,
+      "informacion": "saludos",
+      "tema": "conversaciones en ingles"
+    }
+  }
+]
